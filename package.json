@@ -1,6 +1,6 @@
 {
-    "name": "react-timerhook",
-    "version": "1.0.0",
+    "name": "react-timehook",
+    "version": "1.0.1",
     "description": "Timer and Countdown hook for React.",
     "keywords": [
       "countdown",
@@ -10,11 +10,11 @@
       "react",
       "react-hooks",
       "react-use-countdown",
-      "react-timerhook",
+      "react-timehook",
       "react-timer"
     ],
-    "repository": "https://github.com/thinnakrit/react-timerhook",
-    "homepage": "https://github.com/thinnakrit/react-timerhook#readme",
+    "repository": "https://github.com/thinnakrit/react-timehook",
+    "homepage": "https://github.com/thinnakrit/react-timehook#readme",
     "license": "MIT",
     "author": "Thinnakrit Knoo-Aksorn <thinnakrit.idesign@gmail.com>",
     "source": "src/index.js",

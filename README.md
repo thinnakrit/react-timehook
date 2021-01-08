@@ -1,13 +1,13 @@
 <p align="center">Timer and Countdown hook for React.</p>
 <p align="center">
-    <a href="https://circleci.com/gh/thinnakrit/react-timerhook">
-        <img src="https://circleci.com/gh/thinnakrit/react-timerhook.svg?style=svg" />
+    <a href="https://circleci.com/gh/thinnakrit/react-timehook">
+        <img src="https://circleci.com/gh/thinnakrit/react-timehook.svg?style=svg" />
     </a>
-    <a href="https://coveralls.io/github/thinnakrit/react-timerhook?branch=master">
-        <img src="https://coveralls.io/repos/github/thinnakrit/react-timerhook/badge.svg?branch=master" />
+    <a href="https://coveralls.io/github/thinnakrit/react-timehook?branch=master">
+        <img src="https://coveralls.io/repos/github/thinnakrit/react-timehook/badge.svg?branch=master" />
     </a>
-    <a href="https://www.npmjs.com/package/react-timerhook">
-        <img src="https://img.shields.io/npm/v/react-timerhook.svg" />
+    <a href="https://www.npmjs.com/package/react-timehook">
+        <img src="https://img.shields.io/npm/v/react-timehook.svg" />
     </a>
 </p>
 
@@ -15,19 +15,19 @@
 Using npm:
 
 ```sh
-$ npm install --save react-timerhook
+$ npm install --save react-timehook
 ```
 
 Using yarn:
 
 ```sh
-$ yarn add react-timerhook
+$ yarn add react-timehook
 ```
 
 ## Quick Start
 ```javascript
 import React from 'react';
-import useCountDown from 'react-timerhook';
+import useCountDown from 'react-timehook';
 
 const initialTime = 60 * 1000; // initial time in milliseconds, defaults to 60000
 const interval = 1000; // interval to change remaining time amount, defaults to 1000
