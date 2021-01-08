@@ -1,0 +1,37 @@
+{
+    "name": "react-timerhook",
+    "version": "1.0.0",
+    "description": "Timer and Countdown hook for React.",
+    "keywords": [
+      "countdown",
+      "hook",
+      "hooks",
+      "timer",
+      "react",
+      "react-hooks",
+      "react-use-countdown",
+      "react-timerhook",
+      "react-timer"
+    ],
+    "repository": "https://github.com/thinnakrit/react-timerhook",
+    "homepage": "https://github.com/thinnakrit/react-timerhook#readme",
+    "license": "MIT",
+    "author": "Thinnakrit Knoo-Aksorn <thinnakrit.idesign@gmail.com>",
+    "source": "src/index.js",
+    "main": "dist/index.js",
+    "module": "dist/index.module.js",
+    "unpkg": "dist/index.umd.js",
+    "scripts": {
+      "build": "microbundle"
+    },
+    "devDependencies": {
+      "@babel/core": "^7.12.10",
+      "@babel/preset-react": "^7.12.10",
+      "microbundle": "^0.12.4",
+      "react": "^16.14.0",
+      "react-dom": "^16.14.0"
+    },
+    "peerDependencies": {
+      "react": "^16.8.0 || ^17.0.0"
+    }
+  }
